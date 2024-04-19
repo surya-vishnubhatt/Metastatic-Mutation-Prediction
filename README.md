@@ -12,4 +12,5 @@ Metastatic cancer occurs when cancer cells break from the original tumor site, e
 
 ```metastatic_SNV_process.py```: Processes raw metastatic mutation information from the Hartwig Medical Database (https://www.hartwigmedicalfoundation.nl/en/)
 
-```main.ipynb```: Performs the bulk of analysis, exploratory data analysis, data preprocessing, visualization, and Machine Learning Analyses.
+```main.ipynb```: Houses the bulk of the investigation including exploratory data analysis, data preprocessing, visualization, and Machine Learning Analyses.
+
