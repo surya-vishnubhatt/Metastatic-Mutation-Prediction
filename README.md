@@ -2,7 +2,7 @@
 
 ### Forward
 
-The following repository serves to store the codebase for my thesis project conducted at the Khurana Lab at Weill Cornell (https://khuranalab.med.cornell.edu) affiliated with the Meyer Cancer Center and Department of Physiology and Biophysics. Due to data privacy issues, all data is stored on our lab's compute server, the included Jupyter Notebook houses the code implemented. 
+The following repository serves to store the codebase for my thesis project conducted at the Khurana Lab at the Weill Cornell Graduate School of Medical Sciences (https://khuranalab.med.cornell.edu) affiliated with the Meyer Cancer Center and Department of Physiology and Biophysics. Due to data privacy issues, all data is stored on our lab's compute server, the included Jupyter Notebook houses the code implemented. 
 
 ### Abstract 
 
